@@ -1,0 +1,2 @@
+- [GitHub source-control auth](github-source-control-auth.md) — an active-looking connection may still lack usable CLI/API access; verify before repository writes.
+- [Safe JSON export cleanup](json-export-sanitization.md) — remove URLs only inside JSON strings and sanitize before splitting a document into arbitrary byte parts.
